@@ -7,5 +7,5 @@ module.exports = {
     'mongodb+srv://umnk003:aEXLxBr3ahznn5Dt@clusterx-mxgxg.gcp.mongodb.net/test?retryWrites=true&w=majority',
   stripePublishableKey: 'pk_test_0vy1wOhxeLvagIGyhUkCXn6900e31WMd8d',
   stripeSecretKey: 'sk_test_5WKFCtc7A88stNa1NTSAda2g00yFGrK0sU',
-  frontEndURL: 'http://localhost:3000/#',
+  frontEndURL: 'http://localhost:3000',
 };

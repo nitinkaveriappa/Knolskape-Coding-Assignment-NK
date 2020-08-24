@@ -19,17 +19,17 @@ router.get(
 router.get(
   '/google/callback',
   passport.authenticate('google', {
-    failureRedirect: `${keys.frontEndURL}/error`,
+    failureRedirect: `${keys.frontEndURL}/#/error`,
   }),
   (req, res) => {
     console.log('Redirect');
-    res.redirect(`${keys.frontEndURL}/home`);
+    res.redirect(`${keys.frontEndURL}/#/home`);
   }
 );
 
 router.get('/logout', (req, res) => {
   req.logout();
-  res.redirect(`${keys.frontEndURL}/login`);
+  res.redirect(`${keys.frontEndURL}/#/login`);
 });
 
 module.exports = router;
