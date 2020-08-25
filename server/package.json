@@ -11,13 +11,14 @@
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www",
     "deploy": "gh-pages -b node-server -d ../server",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+    "predeploy": "npm run build --prefix ../client && cpr ../client/build ./client/build -od"
   },
   "dependencies": {
     "axios": "0.20.0",
     "cookie-parser": "1.4.5",
     "cookie-session": "1.4.0",
     "cors": "2.8.5",
+    "cpr": "^3.0.1",
     "debug": "2.6.9",
     "express": "~4.16.1",
     "express-session": "1.17.1",
