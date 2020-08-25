@@ -14,13 +14,13 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "0.20.0",
     "cookie-parser": "1.4.5",
     "cookie-session": "1.4.0",
     "cors": "2.8.5",
     "debug": "2.6.9",
     "express": "~4.16.1",
-    "express-session": "^1.17.1",
+    "express-session": "1.17.1",
     "http-errors": "1.6.3",
     "jade": "1.11.0",
     "mongoose": "5.10.0",
