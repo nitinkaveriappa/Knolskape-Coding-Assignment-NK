@@ -1,0 +1,30 @@
+{
+  "files": {
+    "static/js/0.1d2cc5da.chunk.js": "/Knolskape-Coding-Assignment-NK/static/js/0.1d2cc5da.chunk.js",
+    "static/js/0.1d2cc5da.chunk.js.map": "/Knolskape-Coding-Assignment-NK/static/js/0.1d2cc5da.chunk.js.map",
+    "Home.js": "/Knolskape-Coding-Assignment-NK/static/js/Home.5331830b.chunk.js",
+    "Home.js.map": "/Knolskape-Coding-Assignment-NK/static/js/Home.5331830b.chunk.js.map",
+    "Login.js": "/Knolskape-Coding-Assignment-NK/static/js/Login.7ef2decf.chunk.js",
+    "Login.js.map": "/Knolskape-Coding-Assignment-NK/static/js/Login.7ef2decf.chunk.js.map",
+    "main.js": "/Knolskape-Coding-Assignment-NK/static/js/main.52e13e48.chunk.js",
+    "main.js.map": "/Knolskape-Coding-Assignment-NK/static/js/main.52e13e48.chunk.js.map",
+    "runtime-main.js": "/Knolskape-Coding-Assignment-NK/static/js/runtime-main.13dce227.js",
+    "runtime-main.js.map": "/Knolskape-Coding-Assignment-NK/static/js/runtime-main.13dce227.js.map",
+    "static/js/5.ebda227b.chunk.js": "/Knolskape-Coding-Assignment-NK/static/js/5.ebda227b.chunk.js",
+    "static/js/5.ebda227b.chunk.js.map": "/Knolskape-Coding-Assignment-NK/static/js/5.ebda227b.chunk.js.map",
+    "static/js/6.5d324fe2.chunk.js": "/Knolskape-Coding-Assignment-NK/static/js/6.5d324fe2.chunk.js",
+    "static/js/6.5d324fe2.chunk.js.map": "/Knolskape-Coding-Assignment-NK/static/js/6.5d324fe2.chunk.js.map",
+    "static/js/7.26cf1570.chunk.js": "/Knolskape-Coding-Assignment-NK/static/js/7.26cf1570.chunk.js",
+    "static/js/7.26cf1570.chunk.js.map": "/Knolskape-Coding-Assignment-NK/static/js/7.26cf1570.chunk.js.map",
+    "index.html": "/Knolskape-Coding-Assignment-NK/index.html",
+    "precache-manifest.352d4ef2e5510af621a892f74236fcb3.js": "/Knolskape-Coding-Assignment-NK/precache-manifest.352d4ef2e5510af621a892f74236fcb3.js",
+    "service-worker.js": "/Knolskape-Coding-Assignment-NK/service-worker.js",
+    "static/js/6.5d324fe2.chunk.js.LICENSE.txt": "/Knolskape-Coding-Assignment-NK/static/js/6.5d324fe2.chunk.js.LICENSE.txt",
+    "static/media/btn_google_dark_normal_ios.svg": "/Knolskape-Coding-Assignment-NK/static/media/btn_google_dark_normal_ios.8f343c26.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13dce227.js",
+    "static/js/6.5d324fe2.chunk.js",
+    "static/js/main.52e13e48.chunk.js"
+  ]
+}
