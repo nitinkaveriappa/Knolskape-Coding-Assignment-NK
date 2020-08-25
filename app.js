@@ -87,7 +87,7 @@ const authCheck = (req, res, next) => {
 //   next();
 // });
 
-app.use('/', indexRouter);
+// app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/testAPI', testAPIRouter);
 
