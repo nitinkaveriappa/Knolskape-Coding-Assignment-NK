@@ -6,6 +6,7 @@ module.exports = {
   stripePublishableKey: process.env.STRIPE_PUBLISHABLE_KEY,
   stripeSecretKey: process.env.STRIPE_SECRET_KEY,
   frontEndURL: process.env.FRONT_END_URL,
+  baseURL: process.env.BASE_URL,
 };
 
 // Qdymg55rBbS88rZAoA2NfOZ2vFMYiQC4
